@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:ohos="http://schemas.huawei.com/res/ohos"
+             ohos:width="match_parent"
+             ohos:height="match_parent"
+             ohos:column_count="3"
+             ohos:row_count="3">
+
+    <DirectionalLayout
+            ohos:width="300vp"
+            ohos:height="100vp"
+            ohos:background_element="$graphic:tablelayout_bg_type_1"/>
+
+    <DirectionalLayout
+            ohos:width="200vp"
+            ohos:height="60vp"
+            ohos:background_element="$graphic:tablelayout_bg_type_2"/>
+
+    <DirectionalLayout
+            ohos:width="300vp"
+            ohos:height="60vp"
+            ohos:background_element="$graphic:tablelayout_bg_type_3"/>
+
+    <DirectionalLayout
+            ohos:width="100vp"
+            ohos:height="90vp"
+            ohos:background_element="$graphic:tablelayout_bg_type_1"/>
+
+    <DirectionalLayout
+            ohos:width="300vp"
+            ohos:height="60vp"
+            ohos:background_element="$graphic:tablelayout_bg_type_2"/>
+
+    <DirectionalLayout
+            ohos:width="200vp"
+            ohos:height="50vp"
+            ohos:background_element="$graphic:tablelayout_bg_type_3"/>
+
+    <DirectionalLayout
+            ohos:width="100vp"
+            ohos:height="60vp"
+            ohos:background_element="$graphic:tablelayout_bg_type_1"/>
+
+    <DirectionalLayout
+            ohos:width="300vp"
+            ohos:height="100vp"
+            ohos:background_element="$graphic:tablelayout_bg_type_2"/>
+
+
+    <DirectionalLayout
+            ohos:width="200vp"
+            ohos:height="60vp"
+            ohos:background_element="$graphic:tablelayout_bg_type_2"/>
+
+    <DirectionalLayout
+            ohos:width="100vp"
+            ohos:height="80vp"
+            ohos:background_element="$graphic:tablelayout_bg_type_2"/>
+</TableLayout>

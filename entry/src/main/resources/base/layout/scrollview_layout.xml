@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:ohos="http://schemas.huawei.com/res/ohos"
+            ohos:width="match_parent"
+            ohos:rebound_effect="true"
+            ohos:height="match_parent">
+
+    <Text
+            ohos:id="$+id:tv"
+            ohos:width="match_parent"
+            ohos:height="match_content"
+            ohos:text="$string:test_text"
+            ohos:text_color="#000000"
+            ohos:multiple_lines="true"
+            ohos:text_alignment="top"
+            ohos:text_size="26fp"/>
+</ScrollView>

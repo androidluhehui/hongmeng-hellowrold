@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DirectionalLayout xmlns:ohos="http://schemas.huawei.com/res/ohos"
+                   ohos:width="match_parent"
+                   ohos:height="match_parent"
+                   ohos:orientation="vertical">
+
+    <Clock
+            ohos:id="$+id:clock"
+            ohos:width="match_content"
+            ohos:height="match_content"
+            ohos:time="1598370054"
+            ohos:text_color="#0000ff"
+            ohos:text_size="30fp"
+            ohos:time_zone="GMT"/>
+
+    <Button
+            ohos:id="$+id:btn"
+            ohos:width="200vp"
+            ohos:height="50vp"
+            ohos:text="点击按钮"
+            ohos:text_color="#ffffff"
+            ohos:text_size="30fp"
+            ohos:background_element="$graphic:shape_button_bg"
+            />
+</DirectionalLayout>

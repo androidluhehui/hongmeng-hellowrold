@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DirectionalLayout xmlns:ohos="http://schemas.huawei.com/res/ohos"
+                   ohos:width="match_parent"
+                   ohos:height="match_parent"
+                   ohos:orientation="vertical">
+
+<!--    <Text-->
+<!--            ohos:id="$+id:tv"-->
+<!--            ohos:width="200vp"-->
+<!--            ohos:height="200vp"-->
+<!--            ohos:text="HarmonyOS"-->
+<!--            ohos:background_element="$graphic:shape_text_bg"-->
+<!--            ohos:text_color="#ffffff"-->
+<!--            ohos:text_weight="700"-->
+<!--            ohos:italic="true"-->
+<!--            ohos:text_size="26fp"/>-->
+
+
+<!--    <Text-->
+<!--            ohos:id="$+id:tv"-->
+<!--            ohos:width="200vp"-->
+<!--            ohos:height="200vp"-->
+<!--            ohos:text="HarmonyOS"-->
+<!--            ohos:background_element="$graphic:shape_text_bg"-->
+<!--            ohos:text_color="#ffffff"-->
+<!--            ohos:text_alignment="right|bottom"-->
+<!--            ohos:text_size="26fp"/>-->
+
+<!--    <Text-->
+<!--            ohos:id="$+id:tv"-->
+<!--            ohos:width="200vp"-->
+<!--            ohos:height="200vp"-->
+<!--            ohos:text="HarmonyOS"-->
+<!--            ohos:background_element="$graphic:shape_text_bg"-->
+<!--            ohos:text_color="#ffffff"-->
+<!--            ohos:right_padding="20vp"-->
+<!--            ohos:bottom_padding="20vp"-->
+<!--            ohos:text_alignment="right|bottom"-->
+<!--            ohos:text_size="26fp"/>-->
+
+    <Text
+            ohos:id="$+id:tv"
+            ohos:width="200vp"
+            ohos:height="200vp"
+            ohos:text="一款“面向未来”、面向全场景（移动办公、运动健康、社交通信、媒体娱乐等）的分布式操作系统 。2019年8月9日，华为在HDC开发者大会上正式发布鸿蒙系统。2020年9月10日，华为在HDC开发者大会上如约发布鸿蒙 2.0，并面向应用开发者发布Beta版本。明年鸿蒙将全面支持华为手机"
+            ohos:background_element="$graphic:shape_text_bg"
+            ohos:text_color="#ffffff"
+            ohos:multiple_lines="true"
+
+            ohos:text_size="26fp"/>
+</DirectionalLayout>
+        <!--            ohos:auto_font_size="true"-->
